@@ -1,6 +1,6 @@
 ---
 authors: ["Trần Trung Nguyên"]
-title: Lập trình với Go: Thư viện `io`
+title: "Lập trình với Go: Thư viện `io`"
 date: 2024-09-06
 description: Hướng dẫn sử dụng thư viện 'io' trong lập trình Go
 categories:
