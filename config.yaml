@@ -1,0 +1,32 @@
+baseURL: https://ntranlab.io.vn/
+languageCode: vi-vn
+title: ntranlab
+theme: archie
+themesDir: ./themes
+params:
+  mode: "auto"
+  useCDN: false
+  subtitle: "Kỹ thuật phần mềm, lập trình với Go và phát triển sự nghiệp"
+  mathjax: true
+  katex: true
+  social:
+    - name: GitHub
+      icon: "github"
+      url: "https://github.com/ttn-nguyen42"
+    - name: GitLab
+      icon: "gitlab"
+      url: "https://gitlab.com/ttn.nguyen42"
+    - name: LinkedIn
+      icon: "linkedin"
+      url: "https://www.linkedin.com/in/ttr-ng"
+menu:
+  main:
+    - name: "Trang chủ"
+      url: "/"
+      weight: 1
+    - name: "Bài viết"
+      url: "/bai-viet"
+      weight: 2
+    - name: "Về tác giả"
+      url: "/tac-gia"
+      weight: 3
